@@ -5,3 +5,13 @@ Enquanto estivermos fazendo o trabalho, tudo tem que estar aqui, ok rapaziada?
 tmj
 
 Links:
+- https://www.dio.me/articles/banco-de-dados-nosql-um-guia-para-iniciantes-em-banco-de-dados-nao-relacional
+- https://aws.amazon.com/pt/nosql/
+- https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-nosql-database
+- (Livro) SILBERSCHATZ, Abraham, KORTH, Henry F., SUDARSHAN, S. Sistema de Banco de
+Dados. 6ª Ed., Rio de Janeiro: Elsevier, 2012. ( 9788535245356).
+- UA - Analisar e compreender a utilização do Banco de Dados NoSQL - 11503
+-
+-
+
+
