@@ -11,7 +11,11 @@ Links:
 - (Livro) SILBERSCHATZ, Abraham, KORTH, Henry F., SUDARSHAN, S. Sistema de Banco de
 Dados. 6ª Ed., Rio de Janeiro: Elsevier, 2012. ( 9788535245356).
 - UA - Analisar e compreender a utilização do Banco de Dados NoSQL - 11503
+- https://www.devmedia.com.br/banco-de-dados-nosql-um-novo-paradigma-revista-sql-magazine-102/25918#6
+- https://www.alura.com.br/artigos/sql-nosql-bancos-relacionais-nao-relacionais
+- https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/scaling-out-vs-scaling-up
+- https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-database-sharding/
 -
--
+
 
 
