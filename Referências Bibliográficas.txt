@@ -17,7 +17,7 @@ Dados. 6ª Ed., Rio de Janeiro: Elsevier, 2012. ( 9788535245356).
 - https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-database-sharding/
 - https://diariodacienciadedados.com.br/banco-de-dados-nosql/
 - https://www.ibm.com/br-pt/topics/nosql-databases
--
+- https://db-engines.com/en/article/NoSQL
 
 
 
