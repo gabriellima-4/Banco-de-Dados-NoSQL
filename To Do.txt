@@ -1,0 +1,14 @@
+27/04/2024 - 18:30
+
+Lista do que falta fazer:
+1 - Desenvolvimento
+    - Categorias de BD NoSQL e suas características:
+      * Escrever sobre o Banco de Dados de Colunas (ou Colunar)
+
+    - Vantagens e Desvantagens de cada categoria de BD NoSQL:
+      * TUDO.
+
+2 - Escolher o BD NoSQL e o SGBDR para comparativo
+3 - O Comparativo
+4 - Conclusão
+5 - Referências Bibliográficas
