@@ -37,7 +37,7 @@ O trabalho de pesquisa incluído nesse repositório é fruto de uma atividade av
 Você pode acessar nossa pesquisa buscando por "_nome do arquivo final_" e baixá-la em seu dispositivo, sendo o '.docx' o arquivo original e o '.pdf' disponibilizado para melhor leitura.
 
 
-### O Grupo:
+## O Grupo:
 
 * Bruno César Gonçalves Meireles ([@brunodeev](https://github.com/brunodeev))
 * Felipe Rodrigues Queiroz ([@felipethecreator](https://github.com/felipethecreator))
