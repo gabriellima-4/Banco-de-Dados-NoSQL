@@ -19,6 +19,6 @@ Dados. 6ª Ed., Rio de Janeiro: Elsevier, 2012. ( 9788535245356).
 - https://www.ibm.com/br-pt/topics/nosql-databases
 - https://db-engines.com/en/article/NoSQL
 - https://bytescout.com/blog/mongodb-vs-oracle.html#1
-- https://aws.amazon.com/pt/nosql/document/#:~:text=Os%20bancos%20de%20dados%20de%20documentos%20oferecem%20recursos%20de%20distribui%C3%A7%C3%A3o,por%20meio%20da%20replica%C3%A7%C3%A3o%20integrada.
+- https://medium.com/@fellipe.wurthmann/introdu%C3%A7%C3%A3o-a-bancos-de-dados-nosql-orientado-a-colunas-1f47dd52b8c2
 
 
