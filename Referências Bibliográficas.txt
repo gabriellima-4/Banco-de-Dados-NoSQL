@@ -21,5 +21,6 @@ Dados. 6ª Ed., Rio de Janeiro: Elsevier, 2012. ( 9788535245356).
 - https://bytescout.com/blog/mongodb-vs-oracle.html#1
 - https://db-engines.com/en/system/MongoDB%3BOracle
 - https://medium.com/@fellipe.wurthmann/introdu%C3%A7%C3%A3o-a-bancos-de-dados-nosql-orientado-a-colunas-1f47dd52b8c2
+- https://isaiasbarroso.wordpress.com/2012/06/20/banco-de-dados-orientado-a-colunas/
 
 
