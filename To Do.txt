@@ -1,8 +1,4 @@
 27/04/2024 - 18:30
 
 Lista do que falta fazer:
-1 - O Comparativo
-       * Custo/Benefício
-       * Uso e Gerenciamento
-
-2 - Conclusão
+1 - Conclusão
