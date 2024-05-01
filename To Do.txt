@@ -1,12 +1,8 @@
 27/04/2024 - 18:30
 
 Lista do que falta fazer:
-1 -Vantagens e Desvantagens de cada categoria de BD NoSQL:
-    * V e D do Banco de Dados de Colunas
+1 - O Comparativo
+       * Custo/Benefício
+       * Uso e Gerenciamento
 
-2 - O Comparativo
-    * Custo/Benefício
-    * Uso e Gerenciamento
-
-3 - Conclusão
-4 - Arrumar referências Bibliográficas
+2 - Conclusão
