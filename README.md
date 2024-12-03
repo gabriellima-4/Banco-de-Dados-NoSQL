@@ -35,7 +35,12 @@ O trabalho de pesquisa incluído nesse repositório é fruto de uma atividade av
 
 <br />
 
+## Nossos Arquivos
 Você pode acessar nossa pesquisa buscando por "_PesquisaNoSQL-Grupo-BFG-Final_" e baixá-la em seu dispositivo, sendo o '.docx' o arquivo original e o '.pdf' disponibilizado para melhor leitura.
+<br />
+<br />
+<img src="https://img.icons8.com/?size=100&id=fIgZUHgwc76e&format=png&color=000000" alt="" width="22px"/>
+Além disso, a versão em inglês do nosso trabalho foi disponibilizada (03/12/2024). O arquivo tem o nome de "_Research-NoSQL-Grupo-BFG-Final.pdf_".
 
 
 ## O Grupo:
